@@ -1,4 +1,5 @@
-/* Salesforce integration to Google Docs using OAuth2
+/* Salesforce integration to Google Docs spreadsheet using OAuth2
+ * Google App Script
  * Vivian Brown
  * 1-31-2013
  */
